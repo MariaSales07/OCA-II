@@ -1,4 +1,5 @@
 CREATE DATABASE bd_escola;
+USE bd_escola;
 CREATE TABLE tb_aluno (
  cd_aluno INT AUTO_INCREMENT PRIMARY KEY,
  nm_aluno VARCHAR(100),
